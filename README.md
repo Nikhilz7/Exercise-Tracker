@@ -1,2 +1,2 @@
-MERN STACK application 
+React and Node application 
 Exercise Tracker
